@@ -1,9 +1,9 @@
 import pickle
-import regressor as regressor
+# import regressor as regressor
 import spacy
 import sys
 
-model_path="en_core_web_sm/en_core_web_sm/en_core_web_sm-3.4.1"
+model_path="model/model_core/model_core_web_sm-3.4.1"
 
 
 def predictSimiliarity(studentAnswer, sourceAnswer):
