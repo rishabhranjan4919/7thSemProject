@@ -1,5 +1,5 @@
 import pickle
-import regressor as regressor
+# import regressor as regressor
 import spacy
 import sys
 
